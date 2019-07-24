@@ -6,7 +6,8 @@
 │   ├── backup.env.sh
 │   ├── backup.env.sh-bak
 │   ├── backup.sh
-│   └── init.sh
+│   ├── init.sh
+│   └── install.sh
 ├── .gitmodules
 ├── .resource
 │   ├── 01e0d8db83d972f22e07b94c5e9adec8
@@ -556,4 +557,4 @@
 ├── ff45899e17b842219afca89a4fc3688f.md
 └── ff6e216c0a3e3a95c002410537a270c0.md
 
-4 directories, 552 files
+4 directories, 553 files
