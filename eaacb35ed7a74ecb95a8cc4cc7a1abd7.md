@@ -1,0 +1,22 @@
+id: eaacb35ed7a74ecb95a8cc4cc7a1abd7
+parent_id: fa7e8f3785ce434694ff737a8f978f9e
+created_time: 
+updated_time: 2017-12-30T22:32:46.000Z
+is_conflict: 
+latitude: 
+longitude: 
+altitude: 
+author: 
+source_url: 
+is_todo: 
+todo_due: 
+todo_completed: 
+source: 
+source_application: 
+application_data: 
+order: 
+user_created_time: 
+user_updated_time: 
+encryption_cipher_text: JED01000022018398566b14cd4aaaba41ceaa4fab949f0005be{"iv":"dlrBZEr1XZP4VIZByEoWUQ==","v":1,"iter":1000,"ks":128,"ts":64,"mode":"ocb2","adata":"","cipher":"aes","salt":"9fqUGJTjF/o=","ct":"bXgC7+FQ7B9Cl/Iki4Y9h0B062YMeHEszL52mAEvit/2PMUMogP2WnRoXIGF23aMeeO4uA0jVzhQkWYc0ak/QwMrPjyB9tdBNwXgNeeuhY+3L8V+O5KdzHwBVnOWCmjnBnvslCoiE2umGX/vOJmkmlFGvrgQ10fcVA4B0dN1N5apGn2lBck/ZGs3LtpXbpYgvo4dUFK0mzq/lbBBezug7TLzMjZ1L5tWJh2T0XbXIJGRocDqAL58jbZ+rJc/f86O3K4ZWtRSC9bqfY+0HJmEwdFTIQ8SCTP4VYB13wDUsVyYzEhvgNRmxroaXFnzuN+Cin3PnCjP1FdUsQWDXVZ6jVl94kWSsyszJurmlxC1x0pZ5hEQbI1KMZ/DRc5WIm/GMqgblwXZ9IdZOhkC2CNsOf5x8rzq5Fm8imMWcEsNHay2XgQa6M+vq4sx5wrNvRovE0MgDop4xlrPZj0NS3/lEa4qlVaCJyhH2Zdk2nmxcfgk7QCEPBChS+wqFNJD1bB/WkWsM9D4lBaVvZI8EzdN3PNZ8oKv2FXLL09/yY2q/k2i0ErqemdGdpfOzRJyEiDw4djB/IBPrN9rGYExfuEltP0cQqpMXusXfKhDamukIc42s2iPBbiXm/KFQ33fS/Stg6mREMzUN9txTcuJFLCnUjPgI9oUWBNs+az2YxuArgBwSjgGQB0b4TUBHW4RbRuznErcpE30rdaPW6cFjSfQ66p3d1YPZvQrUFCZ66+Fc6mtUlm3NLeHqNoiBdfEzbuoQGEMd34VGZB2TG7mxJrm/ZQRRhBpACa68gMqbyXunAUmbVlP8OzCI+UKf9n3FABNc2UiLbVH2BszYH5FneXejgLNQIHu1c07w9uCCkMyoiZhTzc+Ab1H0aU+fOJDQvkNWJO8aVOaXBAXiRxMhfi1P2uJ8vuiC3Y8dDL6cdZ8KRDvwJp8sUylS9uQJ0YYov/PZI48dLVXROUnuUf6SmJK9boiDrQYZ2W0CIcOijNZsqnp8zeY6l/B8t11uBF9wjkESFzXoOXdTgvPmdlaxo7uQSJU7w/SOWGlek8LVgN6y5WGkSbcGAwZZTMSHUDL4vxUgPgWwk6W4bl9ARdqj6R12POgpFIKQCqKNBS/xZBDmnmufI0ofZ2yO00CL/jSD7gEYort4nU9Dmagoz1PsdHRExX0tBUQ9lEMr/MfA5oZpGpzFJekL9GoeqmQzGYE8uaGRQydjYTUESJj3bIijAHCL6WSN+96zibe1Y0v26okUmSN57vYbchpcRnJRJWev8N9QczQ27N7STmyssojx0dIs2Tw/j1gk/iD+Ga3q1vBdfEH+hGiAvc="}
+encryption_applied: 1
+type_: 1
